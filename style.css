@@ -9,7 +9,7 @@ body {
     display: flex;
     justify-content: center;
     min-height: 100vh;
-    background-color: black;
+    background-color: #f3f3f3;
 }
 
 .container {
